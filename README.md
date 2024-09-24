@@ -1,6 +1,6 @@
 # LLaMA Model Usage on AWS Bedrock
 
-This repository contains a Python script that demonstrates how to use LLMAa model on AWS bedrock. It's a simple example that generates recipes using a list of ingredients. The script interacts with an AWS Bedrock Runtime client to generate the recipe in JSON format, conforming to a predefined schema. You can use this as a starting point to build your own application, of course you can change the schema, model, and prompt to fit your needs!
+This repository contains a sample python script that demonstrates how to use a LLaMA model on AWS bedrock. It's a simple example that generates recipes using a list of ingredients. The script interacts with an AWS Bedrock Runtime client to generate the recipe in JSON format, conforming to a predefined schema. You can use this as a starting point to build your own application, of course you can change the schema, model, and prompt to fit your needs!
 
 ## Prerequisites
 
